@@ -50,16 +50,18 @@ Social media management and content creation tool
 
 ---
 
-##  GitHub Stats
+##  GitHub Activity
 
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisOxygen&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChrisOxygen&theme=dark&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisOxygen&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
 ---
 
 ##  Let's Connect
 
--  [LinkedIn](https://www.linkedin.com/in/christopher-okafor-17084416b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_myitems_savedposts%3BXn2SzYiiT5uho5EDSwT56Q%3D%3D)
--  Portfolio: [https://usechris.dev]
+-  [LinkedIn](https://www.linkedin.com/in/christopher-okafor-17084416b)
+-  Portfolio: [https://usechris.dev](https://usechris.dev)
 -  Email: chris@usechris.dev
 
 ---
