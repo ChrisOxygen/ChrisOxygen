@@ -8,7 +8,7 @@ Full-stack developer specializing in building production-ready web applications 
 -  Background in UI/UX design, bringing strong design sensibility to my code
 -  Expertise in building MVPs and taking applications to production
 -  Based in Nigeria, working with clients globally
--  Delivered projects with real user traction (1000+ active users)
+-  Delivered projects with real user traction (500+ active users)
 
 ##  Tech Stack
 
@@ -29,7 +29,7 @@ Full-stack developer specializing in building production-ready web applications 
 ### [ProPreso](https://propreso.com)
 Chrome extension for AI-powered presentation enhancement  
 **Tech**: Next.js, TypeScript, OpenAI API  
-**Impact**: 1000+ downloads
+**Impact**: 50+ downloads
 
 ### [Invox](https://invox.cc)
 Complete invoicing platform for freelancers and small businesses  
